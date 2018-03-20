@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Users>
+    <User>
+        <login>Ana</login>
+        <enteredPassword>aaaa</enteredPassword>
+    </User>
+
+    <User>
+        <login>Mark</login>
+        <enteredPassword>bbbb</enteredPassword>
+    </User>
+
+    <User>
+        <login>Steve</login>
+        <enteredPassword>cccc</enteredPassword>
+    </User>
+
+    <User>
+        <login>Madonna</login>
+        <enteredPassword>eeee</enteredPassword>
+    </User>
+
+    <User>
+        <login>Brendon</login>
+        <enteredPassword>dddd</enteredPassword>
+    </User>
+</Users>
